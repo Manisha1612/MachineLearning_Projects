@@ -1,7 +1,7 @@
 # MachineLearning_Projects
 Machine learning projects from beginners to advance level using Python Programming and Open Dataset
 
-Python File : Iris_dataset_usingRegression_KNN_SVM.ipynb
+1.Python File : Iris_dataset_usingRegression_KNN_SVM_Model.ipynb
 
 PREDICT A TYPE OF FLOWER using Regression
 
