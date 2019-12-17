@@ -18,3 +18,12 @@ PREDICT : Predict the sales based on the Advertising media e.g TV, Radio, NewsPa
 Dataset : Kaggle - Advertising Data
 The sale is high when the investment is in TV Advertise. With respect to data we can see Advertising in Newspaper is not increase
 the sale so it is not so effective to increase sale.
+
+3. Python File : Heart_Diesease_Prediction_UsingClassification.ipynb
+Predict : Predict wether the person will suffer from Heart Disease or Not.
+
+Dataset : Dataset is taken from Kaggle.com , Dataset : Heart Disease UCI
+
+Total 14 Features are there 13 out of them are contributing towards Heart Disease and  1 is the Class/Target Feature.
+Here I have shown Accuracy using TWO Models : KNN and Random Forest.
+Data Visualization has been done to see the corelation of the features.
